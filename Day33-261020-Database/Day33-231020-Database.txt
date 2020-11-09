@@ -1,0 +1,14 @@
+Database Part 5
+ทบมวนที่เรียนไปเมื่อ Day32
+เรียนตาม Slide และทำโจทย์ใน Slide ซ้ำเพื่อทบทวนอีกรอบ 
+มีเฉลยอยู่ใน Slide หน้าโจทย์อยู่แล้ว
+เรียน Slide ต่อจากเดิมจาก Day32 ที่ Slide 47
+
+npm init -y //สร้าง package.json
+npm i express //สร้าง node_modules และ package-lock.json
+npm i sequelize mysql2 //ติดตั้ง sequelize และ mysql2
+sequelize-cli init:config //สร้าง Folder > config และ config.json ใน Folder > config
+sequelize-cli init:models //สร้าง Folder > models และ index.js ใน Folder > models
+
+เข้า config.json แก้ไข "development" แล้ว
+sequelize-cli db:create

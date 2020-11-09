@@ -1,0 +1,20 @@
+[
+  {
+    "id": 0,
+    "username": "tle",
+    "password": "123456",
+    "firstName": "Wissanu",
+    "lastName": "Kongjandee",
+    "role": "customer",
+    "lastLogin": ""
+  },
+  {
+    "id": 1,
+    "username": "admin",
+    "password": "admin",
+    "firstName": "Thanawan",
+    "lastName": "Panitpongsri",
+    "role": "admin",
+    "lastLogin": ""
+  }
+]
